@@ -13,11 +13,11 @@
 		"stats_pattern":1,
 		"equip":["dagger","sword","greatSword","katana","staff","rod","bow","axe","hammer","spear","harp","whip","throwing","gun","mace","fist","lightShield","heavyShield","hat","helm","clothes","lightArmor","heavyArmor","robe"]
     },
-	"77780008": {
+	"777800008": {
 	"name":"Sephiroth Black Wing",
 	"roles":[null,"debuffer"],
-	"id":"77780008",
-	"braveShifted":"77780018",
+	"id":"777800008",
+	"braveShifted":"777800018",
 	"exAwakening": [{"hp":663,"mp":39,"atk":20,"def":25,"mag":81,"spr":23},{"hp":510,"mp":30,"atk":15,"def":19,"mag":62,"spr":18},{"hp":357,"mp":21,"atk":10,"def":13,"mag":43,"spr":13}],
 	"fragmentId": "310000940",
 	"max_rarity":"NV",
@@ -31,11 +31,11 @@
 	"stats_pattern":4,
 	"equip":["rod","throwing","gun","hat","helm","clothes","lightArmor","heavyArmor","robe","visionCard"]
 },
-"77780018": {
+"777800018": {
 		"name":"Sephiroth Black Wing BS",
 		"roles":[null,"debuffer"],
-		"id":"77780018",
-		"braveShifted":"77780008",
+		"id":"777800018",
+		"braveShifted":"777800008",
 		"exAwakening": [{"hp":663,"mp":39,"atk":20,"def":25,"mag":81,"spr":23},{"hp":510,"mp":30,"atk":15,"def":19,"mag":62,"spr":18},{"hp":357,"mp":21,"atk":10,"def":13,"mag":43,"spr":13}],
 		"fragmentId": "310000940",
 		"max_rarity":"NV",
