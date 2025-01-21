@@ -245,6 +245,8 @@
     "100034205" : {"type":"summon","name":"Conche"},
     "401013507" : {"type":"summon","name":"Beach Blaster Olive"},
     "401013517" : {"type":"summon","name":"Beach Blaster Olive BS"},
+	"777800008" : {"type":"summon","name":"Sephiroth Black Wing"},
+    "777800018" : {"type":"summon","name":"Sephiroth Black Wing BS"},
     "401001427" : {"type":"summon","name":"Barbariccia BS"},
     "401001527" : {"type":"summon","name":"Rubicante BS"},
     "210002407" : {"type":"summon","name":"New Guardian Tidus"},
