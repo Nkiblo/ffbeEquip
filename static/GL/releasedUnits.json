@@ -1074,5 +1074,6 @@
     "338000905" : {"type":"event","name":"Greed"},
     "338000805" : {"type":"event","name":"Envy"},
 
-    "777700004" : {"type":"custom","name":"Holiday Hero"}
+    "777700004" : {"type":"custom","name":"Holiday Hero"},
+    "777700008" : {"type":"custom","name":"Sephiroth Black Wing"}
 }
